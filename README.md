@@ -6,7 +6,7 @@
 This repository documents my progress and completed assignments for the "Learn JavaScript" course offered by Codecademy. The course is designed to enhance my JavaScript fundamentals, providing a comprehensive and practical understanding of the language's core concepts.
 
 ## Motivation
-I decided to enroll in the "Learn JavaScript" course on Codecademy for the following reasons:
+I decided to explore "Learn JavaScript" course on Codecademy for the following reasons:
 
 1. **Strengthening Fundamentals**: While I had some prior experience with JavaScript, I recognized the importance of solidifying my foundational knowledge. This course promised to reinforce my understanding of key concepts, ensuring a strong base for future development.
 
