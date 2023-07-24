@@ -32,5 +32,3 @@ I am grateful for the knowledge gained through this course, and I am excited to 
 
 ## Getting Started
 If you are interested in exploring JavaScript and enhancing your fundamental knowledge, you can enroll in the "Learn JavaScript" course on Codecademy [here](https://www.codecademy.com/learn/introduction-to-javascript).
-
-Feel free to explore the course material in this repository.
