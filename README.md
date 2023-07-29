@@ -31,4 +31,4 @@ The "Learn JavaScript" course on Codecademy proved to be an invaluable learning 
 I am grateful for the knowledge gained through this course, and I am excited to continue my journey in web development, applying these newfound skills to build innovative and engaging web applications.
 
 ## Getting Started
-If you are interested in exploring JavaScript and enhancing your fundamental knowledge, you can enroll in the "Learn JavaScript" course on Codecademy [here](https://www.codecademy.com/learn/introduction-to-javascript).
+If you are interested in exploring JavaScript and enhancing your fundamental knowledge, you can check out the "Learn JavaScript" course on Codecademy [here](https://www.codecademy.com/learn/introduction-to-javascript).
