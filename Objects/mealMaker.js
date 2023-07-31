@@ -27,6 +27,9 @@ menu.price = 10;
 console.log(menu);
 console.log(menu.todaysSpecial);
 
+// To further extend my learning on this simple activity, try adding an array of meals
+// and prices to randomly set and get Today's Special
+
 
 
 
