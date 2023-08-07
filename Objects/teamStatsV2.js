@@ -59,3 +59,30 @@ teamGames.forEach(element => {
 console.log(team.players);
 console.log(team.games);
 
+// Get the total number of games your team has played
+// Get the average score of all of their games
+
+let totalGames = 0;
+let totalScore = 0;
+let average;
+let i = 0;
+
+team._games.forEach( function(element) {
+    totalScore += element.teamPoints
+    totalGames++;
+})
+console.log(`Total Number of games played: ${totalGames}\nWith Scores of: `);
+team._games.forEach(element => {
+    console.log(`Game %d: %d`, i+1, element.teamPoints);
+    i++;
+})
+console.log(`Total score: ${totalScore}`);
+
+average = totalScore / totalGames;
+console.log(average.toFixed(2));
+
+
+
+
+
+
